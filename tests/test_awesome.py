@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """Tests for the awesome module.
+because it is good
 """
 import pytest
 
